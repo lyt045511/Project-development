@@ -13,7 +13,7 @@
     <module>eureka7001</module>
     <module>eureka7002</module>
   </modules>
-
+<!--xxx-->
   <name>BusinessManagement</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
